@@ -12,7 +12,7 @@ All the references are divided into several categories.
 
 ### PIMC
 
-[x]
+[x] (Microscopic molecular superfluid response: theory and simulations)[https://arxiv.org/abs/1710.02685]
 
 ### ENT
 
@@ -20,7 +20,9 @@ All the references are divided into several categories.
 
 ### Rotational density matrix
 
-[x]
+- [x] (Path integral Monte Carlo simulations for rigid rotors and their application to water)[https://www.tandfonline.com/doi/abs/10.1080/00268976.2010.528202]
+
+- [x] (A quantum propagator for path-integral simulations of rigid molecules)[https://aip.scitation.org/doi/10.1063/1.3544214]
 
 ## Potential energy surface
 
