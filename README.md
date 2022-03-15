@@ -28,5 +28,11 @@ All the references are divided into several categories.
 
 ### MB-POL
 
-- [x]
+### First priciples based computation
+
+-[x] [First-principles prediction of the Raman shifts in parahydrogen clusters](https://aip.scitation.org/doi/10.1063/1.4885275)
+
+### ML-MCTDH 
+
+-[x] [Comparison of the Multi-Layer Multi-Configuration Time-Dependent Hartree (ML-MCTDH) Method and the Density Matrix Renormalization Group( (DMRG) for Ground State Properties of Linear Rotor Chains](https://aip.scitation.org/doi/10.1063/5.0047090)
 
