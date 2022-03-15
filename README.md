@@ -12,7 +12,7 @@ All the references are divided into several categories.
 
 ### PIMC
 
-[x] (Microscopic molecular superfluid response: theory and simulations)[https://arxiv.org/abs/1710.02685]
+[x] [Microscopic molecular superfluid response: theory and simulations](https://arxiv.org/abs/1710.02685)
 
 ### ENT
 
