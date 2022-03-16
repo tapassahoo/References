@@ -32,7 +32,12 @@ All the references are divided into several categories.
 
 -[x] [First-principles prediction of the Raman shifts in parahydrogen clusters](https://aip.scitation.org/doi/10.1063/1.4885275)
 
+## Entanglement
+
 ### ML-MCTDH 
 
 -[x] [Comparison of the Multi-Layer Multi-Configuration Time-Dependent Hartree (ML-MCTDH) Method and the Density Matrix Renormalization Group( (DMRG) for Ground State Properties of Linear Rotor Chains](https://aip.scitation.org/doi/10.1063/5.0047090)
 
+### Basis set trunction
+
+- [x] [Quantifying entanglement of rotor chains using basis truncation: Application to dipolar endofullerene peapods](https://aip.scitation.org/doi/full/10.1063/1.5011769)
