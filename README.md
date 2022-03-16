@@ -41,3 +41,7 @@ All the references are divided into several categories.
 ### Basis set trunction
 
 - [x] [Quantifying entanglement of rotor chains using basis truncation: Application to dipolar endofullerene peapods](https://aip.scitation.org/doi/full/10.1063/1.5011769)
+
+### X@C60@CWNT
+
+- [x] [Bond Dissociation and Reactivity of HF and H2O in a Nano Test Tube](https://pubs.acs.org/doi/abs/10.1021/acsnano.0c02661)
