@@ -30,13 +30,13 @@ All the references are divided into several categories.
 
 ### First priciples based computation
 
--[x] [First-principles prediction of the Raman shifts in parahydrogen clusters](https://aip.scitation.org/doi/10.1063/1.4885275)
+- [x] [First-principles prediction of the Raman shifts in parahydrogen clusters](https://aip.scitation.org/doi/10.1063/1.4885275)
 
 ## Entanglement
 
 ### ML-MCTDH 
 
--[x] [Comparison of the Multi-Layer Multi-Configuration Time-Dependent Hartree (ML-MCTDH) Method and the Density Matrix Renormalization Group( (DMRG) for Ground State Properties of Linear Rotor Chains](https://aip.scitation.org/doi/10.1063/5.0047090)
+- [x] [Comparison of the Multi-Layer Multi-Configuration Time-Dependent Hartree (ML-MCTDH) Method and the Density Matrix Renormalization Group( (DMRG) for Ground State Properties of Linear Rotor Chains](https://aip.scitation.org/doi/10.1063/5.0047090)
 
 ### Basis set trunction
 
