@@ -24,6 +24,8 @@ All the references are divided into several categories.
 
 - [x] [A quantum propagator for path-integral simulations of rigid molecules](https://aip.scitation.org/doi/10.1063/1.3544214)
 
+- [x] [Path integral simulations of rotors: theory and applications](https://iopscience.iop.org/article/10.1088/0953-8984/11/11/003/meta)
+
 ## Potential energy surface
 
 ### MB-POL
