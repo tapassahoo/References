@@ -44,6 +44,15 @@ All the references are divided into several categories.
 
 - [x] [Quantifying entanglement of rotor chains using basis truncation: Application to dipolar endofullerene peapods](https://aip.scitation.org/doi/full/10.1063/1.5011769)
 
+## Motivational articles
+
+### H20@CWNT
+
+- [x] [Quasiphase Transition in a Single File of Water Molecules Encapsulated in (6,5) Carbon Nanotubes Observed by Temperature-Dependent Photoluminescence Spectroscopy](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.027402)
+
+
 ### X@C60@CWNT
 
 - [x] [Bond Dissociation and Reactivity of HF and H2O in a Nano Test Tube](https://pubs.acs.org/doi/abs/10.1021/acsnano.0c02661)
+
+
