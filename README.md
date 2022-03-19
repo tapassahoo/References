@@ -55,4 +55,8 @@ All the references are divided into several categories.
 
 - [x] [Bond Dissociation and Reactivity of HF and H2O in a Nano Test Tube](https://pubs.acs.org/doi/abs/10.1021/acsnano.0c02661)
 
+### nuclear spin and rovibrational coupling
+
+- [x] [The nuclear-spin-forbidden rovibrational transitions of water from first principles](https://arxiv.org/pdf/2203.07945.pdf)
+
 
