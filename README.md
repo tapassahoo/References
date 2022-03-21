@@ -6,11 +6,10 @@ All the references are divided into several categories.
 
 - [x] [Static and Dynamic Correlations in Water: Comparison of Classical Ab Initio Molecular Dynamics at Elevated Temperature with Path Integral Simulations at Ambient Temperature](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.1c01223)
 
-- [x] [Path integral Monte Carlo method for the quantum anharmonic oscillator](https://iopscience.iop.org/article/10.1088/1361-6404/ab9a66)
 
 ### PIGS
 
-- [x]
+- [x] [Path integral Monte Carlo method for the quantum anharmonic oscillator](https://iopscience.iop.org/article/10.1088/1361-6404/ab9a66)
 
 ### PIMC
 
