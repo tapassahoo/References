@@ -6,7 +6,7 @@ All the references are divided into several categories.
 
 - [x] [Static and Dynamic Correlations in Water: Comparison of Classical Ab Initio Molecular Dynamics at Elevated Temperature with Path Integral Simulations at Ambient Temperature](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.1c01223)
 - [x] [Path integral molecular dynamics: a computational approach to quantum statistical mechanics](https://www.worldscientific.com/doi/10.1142/9789812839664_0014)
-- [x][Feynman Path Integral Formulation of Quantum Mechanical Transition-State Theory]( 
+- [x] [Feynman Path Integral Formulation of Quantum Mechanical Transition-State Theory]( 
 https://pubs.acs.org/doi/10.1021/j100134a002)
 
 ### PIGS
